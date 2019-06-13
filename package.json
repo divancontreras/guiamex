@@ -1,0 +1,25 @@
+{
+  "name": "GuiaMe",
+  "version": "1.0.0",
+  "description": "Plataforma de experiencias turisticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "turismo"
+  ],
+  "author": "Diego Ivan Contreras Villegas",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-typescript": "^5.0.1",
+    "node-sass": "^4.12.0",
+    "typescript": "^3.5.1",
+    "typescript-compiler": "^1.4.1-2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
